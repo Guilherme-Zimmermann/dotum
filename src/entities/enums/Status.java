@@ -2,8 +2,8 @@ package src.entities.enums;
 
 public enum Status {
     
-    Pago(0),
-    Pendente(1);
+    PAGO(0),
+    PENDENTE(1);
 
     private int code;
 

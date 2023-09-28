@@ -2,8 +2,8 @@ package src.entities.enums;
 
 public enum Definicao {
     
-    Pagar(0),
-    Receber(1);
+    PAGAR(0),
+    RECEBER(1);
 
     private int code;
 
